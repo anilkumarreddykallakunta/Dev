@@ -1,3 +1,3 @@
 var z =1;
-var y=z;
+var y=z = typeof y;
 console.log(y);
