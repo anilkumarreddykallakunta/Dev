@@ -1,4 +1,4 @@
 function getargs(...args){
-    console.log(...args)
+    console.log(typeof args)
 }
 getargs(28);
